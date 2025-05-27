@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\trkho\\OneDrive\\Desktop\\Bài Giữa Kỳ\\Bài cuối kỳ\\HotelDBFinal\\wwwroot\\Text.txt",
+      "PackagePath": "staticwebassets\\Text.txt"
+    },
+    {
+      "Id": "C:\\Users\\trkho\\OneDrive\\Desktop\\Bài Giữa Kỳ\\Bài cuối kỳ\\HotelDBFinal\\wwwroot\\uploads\\avatars\\334172b3-8fce-4483-bec3-36ef58390e4c_Starcraft-Wraith-attack-spaceship.jpg",
+      "PackagePath": "staticwebassets\\uploads\\avatars\\334172b3-8fce-4483-bec3-36ef58390e4c_Starcraft-Wraith-attack-spaceship.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trkho\\OneDrive\\Desktop\\Bài Giữa Kỳ\\Bài cuối kỳ\\HotelDBFinal\\wwwroot\\uploads\\avatars\\42830b54-4b8a-4fc5-8608-88d0938876e7_Picture.jpg",
+      "PackagePath": "staticwebassets\\uploads\\avatars\\42830b54-4b8a-4fc5-8608-88d0938876e7_Picture.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trkho\\OneDrive\\Desktop\\Bài Giữa Kỳ\\Bài cuối kỳ\\HotelDBFinal\\wwwroot\\uploads\\avatars\\c00417a5-a1a8-4fca-9756-b50f4d5db610_Picture.jpg",
+      "PackagePath": "staticwebassets\\uploads\\avatars\\c00417a5-a1a8-4fca-9756-b50f4d5db610_Picture.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HotelDBMiddle.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.HotelDBMiddle.props",
+      "PackagePath": "build\\HotelDBMiddle.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.HotelDBMiddle.props",
+      "PackagePath": "buildMultiTargeting\\HotelDBMiddle.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.HotelDBMiddle.props",
+      "PackagePath": "buildTransitive\\HotelDBMiddle.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
